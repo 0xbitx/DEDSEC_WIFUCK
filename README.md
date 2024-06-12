@@ -1,6 +1,6 @@
 
 <p align="center">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWJ2MGZobjl3YW00cmRrNHY5ZnE1NnJrczdld3gwbzNweDN2eW5mdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lcEKnwUvk2d7isZ09s/giphy.webp" width="60%" height="60%">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWt3bnAwdnlrcTByZW5kMGt5dDhqYng2c3k5cXlhdHR6MjlrZDNkMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l41YpSn2y34Tz3vAk/giphy.webp" width="50%" height="50%">
 </p>
 
 <h1 align="center"> DEDSEC_WIFUCK </h1>
