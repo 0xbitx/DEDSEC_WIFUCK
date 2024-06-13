@@ -20,7 +20,7 @@ DEDSEC_WIFUCK is a sophisticated Wifi jamming device/tool that uses an ESP32 Nod
     1. git clone https://github.com/0xbitx/DEDSEC_WIFUCK.git
     2. cd DEDSEC_WIFUCK
     3. pip install esptool
-    4. ./esptool.py --chip esp32 --port /dev/ttyUSB0 --baud 115200 write_flash 0x0 dedsec_bluejacker.hex
+    4. ./esptool.py --chip esp32 --port /dev/ttyUSB0 --baud 115200 write_flash 0x0 dedsec_wifuck.hex
 
 ## WIRING DIAGRAM
 
